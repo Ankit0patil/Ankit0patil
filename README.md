@@ -4,10 +4,10 @@
 I am deeply engrossed in the realm of web development, perpetually enhancing my skills and embracing new technologies.
 
 ### 💼 Current Endeavor
-Mastering the MERN Stack to create robust and dynamic applications.
+Mastering Data Software Engineering (DSE) to build robust and scalable applications.
 
 ### 🎮 Beyond Development
-When I'm not coding, I relish practicing Karate, participating in various sports, and exploring illustrations and digital art.
+When I'm not coding, I relish on reading Manga or Manhwa, participating in various sports like football, cricket, and exploring illustrations and digital art.
 
 ### 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
